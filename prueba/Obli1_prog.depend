@@ -1,0 +1,399 @@
+# depslib dependency file v1.0
+1663375416 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\auto.cpp
+	"Auto.h"
+
+1663370108 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\auto.h
+	"string.h"
+
+1663373364 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\string.h
+	<stdio.h>
+	"boolean.h"
+
+1661906916 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\boolean.h
+	<stdio.h>
+
+1661907018 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\boolean.cpp
+	"Boolean.h"
+
+1663718183 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\camioneta.cpp
+	"Camioneta.h"
+
+1663635123 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\camioneta.h
+	"string.h"
+
+1663374778 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\discriminante.cpp
+	"Discriminante.h"
+
+1663372407 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\discriminante.h
+	<stdio.h>
+
+1661904152 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1663718634 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\hora.cpp
+	"Hora.h"
+
+1663718650 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\hora.h
+	<stdio.h>
+	"Boolean.h"
+
+1663629713 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\string.cpp
+	"String.h"
+
+1663630642 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\vehiculo.cpp
+	"Vehiculo.h"
+
+1663718650 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\vehiculo.h
+	"String.h"
+	"Departamento.h"
+	"Hora.h"
+	"Discriminante.h"
+	"Auto.h"
+	"Camioneta.h"
+
+1663286637 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\departamento.h
+
+1663719376 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	"Estacionamiento.h"
+	"Menu.h"
+
+1663635526 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\estacionamiento.h
+	"Vehiculo.h"
+
+1663718183 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\estacionamiento.cpp
+	"Estacionamiento.h"
+
+1663719327 source:c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\menu.cpp
+	"Menu.h"
+
+1663719175 c:\users\matip\desktop\ude\programacion 2\obligatorio\prueba\menu.h
+	"Estacionamiento.h"
+
+1663375416 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\auto.cpp
+	"Auto.h"
+
+1663370108 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\auto.h
+	"string.h"
+
+1663373364 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\string.h
+	<stdio.h>
+	"boolean.h"
+
+1661906916 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\boolean.h
+	<stdio.h>
+
+1661907018 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\boolean.cpp
+	"Boolean.h"
+
+1663860116 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\camioneta.cpp
+	"Camioneta.h"
+
+1663635123 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\camioneta.h
+	"string.h"
+
+1663374778 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\discriminante.cpp
+	"Discriminante.h"
+
+1663372407 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\discriminante.h
+	<stdio.h>
+
+1661904152 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1663860116 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\hora.cpp
+	"Hora.h"
+
+1663718650 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\hora.h
+	<stdio.h>
+	"Boolean.h"
+
+1663861063 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	"Estacionamiento.h"
+	"Menu.h"
+
+1663860574 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\vehiculo.h
+	"String.h"
+	"Departamento.h"
+	"Hora.h"
+	"Discriminante.h"
+	"Auto.h"
+	"Camioneta.h"
+
+1663286637 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\departamento.h
+
+1663721123 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\estacionamiento.h
+	"Vehiculo.h"
+
+1663861063 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\menu.h
+	"Estacionamiento.h"
+
+1663629713 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\string.cpp
+	"String.h"
+
+1663860644 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\vehiculo.cpp
+	"Vehiculo.h"
+
+1663863447 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\menu.cpp
+	"Menu.h"
+
+1663860625 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\estacionamiento.cpp
+	"Estacionamiento.h"
+
+1663860611 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\departamentos.cpp
+	"departamenos.h"
+
+1663860238 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion 2\obligatorio\prueba\departamenos.h
+	<stdio.h>
+	"Estacionamiento.h"
+	"Vehiculo.h"
+
+1663375416 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\auto.cpp
+	"Auto.h"
+
+1663370108 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\auto.h
+	"string.h"
+
+1663373364 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\string.h
+	<stdio.h>
+	"boolean.h"
+
+1661906916 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\boolean.h
+	<stdio.h>
+
+1661907018 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\boolean.cpp
+	"Boolean.h"
+
+1663860116 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\camioneta.cpp
+	"Camioneta.h"
+
+1663635123 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\camioneta.h
+	"string.h"
+
+1663374778 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\discriminante.cpp
+	"Discriminante.h"
+
+1663372407 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\discriminante.h
+	<stdio.h>
+
+1661904152 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1663860116 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\hora.cpp
+	"Hora.h"
+
+1663718650 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\hora.h
+	<stdio.h>
+	"Boolean.h"
+
+1663861063 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	"Estacionamiento.h"
+	"Menu.h"
+
+1663878616 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\vehiculo.h
+	"String.h"
+	"Hora.h"
+	"Discriminante.h"
+	"Auto.h"
+	"Camioneta.h"
+	"Departamento.h"
+
+1663879203 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\departamento.h
+	"Vehiculo.h"
+
+1663877271 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\estacionamiento.h
+	"Vehiculo.h"
+
+1663861063 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\menu.h
+	"Estacionamiento.h"
+
+1663878632 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\menu.cpp
+	"Menu.h"
+
+1663629713 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\string.cpp
+	"String.h"
+
+1663877416 source:c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\estacionamiento.cpp
+	"Estacionamiento.h"
+
+1663877763 c:\users\administrador\desktop\ude\programacion 2\practico\obligatorio\ultima\prueba\departamenos.h
+	<stdio.h>
+	"Vehiculo.h"
+
+1663945871 source:c:\users\matip\dropbox\pc\downloads\prueba\auto.cpp
+	"Auto.h"
+
+1663370108 c:\users\matip\dropbox\pc\downloads\prueba\auto.h
+	"string.h"
+
+1663373364 c:\users\matip\dropbox\pc\downloads\prueba\string.h
+	<stdio.h>
+	"boolean.h"
+
+1661906916 c:\users\matip\dropbox\pc\downloads\prueba\boolean.h
+	<stdio.h>
+
+1661907018 source:c:\users\matip\dropbox\pc\downloads\prueba\boolean.cpp
+	"Boolean.h"
+
+1663945871 source:c:\users\matip\dropbox\pc\downloads\prueba\camioneta.cpp
+	"Camioneta.h"
+
+1663635123 c:\users\matip\dropbox\pc\downloads\prueba\camioneta.h
+	"string.h"
+
+1663374778 source:c:\users\matip\dropbox\pc\downloads\prueba\discriminante.cpp
+	"Discriminante.h"
+
+1663372407 c:\users\matip\dropbox\pc\downloads\prueba\discriminante.h
+	<stdio.h>
+
+1663945871 source:c:\users\matip\dropbox\pc\downloads\prueba\estacionamiento.cpp
+	"Estacionamiento.h"
+
+1663944179 c:\users\matip\dropbox\pc\downloads\prueba\estacionamiento.h
+	"Vehiculo.h"
+
+1663888236 c:\users\matip\dropbox\pc\downloads\prueba\vehiculo.h
+	"String.h"
+	"Hora.h"
+	"Discriminante.h"
+	"Auto.h"
+	"Camioneta.h"
+	"Departamento.h"
+
+1663718650 c:\users\matip\dropbox\pc\downloads\prueba\hora.h
+	<stdio.h>
+	"Boolean.h"
+
+1663888213 c:\users\matip\dropbox\pc\downloads\prueba\departamento.h
+	<stdio.h>
+
+1661904152 source:c:\users\matip\dropbox\pc\downloads\prueba\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\matip\dropbox\pc\downloads\prueba\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1663860116 source:c:\users\matip\dropbox\pc\downloads\prueba\hora.cpp
+	"Hora.h"
+
+1663943307 source:c:\users\matip\dropbox\pc\downloads\prueba\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	"Estacionamiento.h"
+	"Menu.h"
+
+1663861063 c:\users\matip\dropbox\pc\downloads\prueba\menu.h
+	"Estacionamiento.h"
+
+1663945926 source:c:\users\matip\dropbox\pc\downloads\prueba\menu.cpp
+	"Menu.h"
+
+1663629713 source:c:\users\matip\dropbox\pc\downloads\prueba\string.cpp
+	"String.h"
+
+1663945534 source:c:\users\matip\dropbox\pc\downloads\prueba\vehiculo.cpp
+	"Vehiculo.h"
+
+1663944808 source:c:\users\matip\dropbox\pc\downloads\prueba\departamentos.cpp
+	"Departamento.h"
+
+1663945871 source:c:\users\administrador\downloads\prueba\auto.cpp
+	"Auto.h"
+
+1663370108 c:\users\administrador\downloads\prueba\auto.h
+	"string.h"
+
+1663373364 c:\users\administrador\downloads\prueba\string.h
+	<stdio.h>
+	"boolean.h"
+
+1661906916 c:\users\administrador\downloads\prueba\boolean.h
+	<stdio.h>
+
+1661907018 source:c:\users\administrador\downloads\prueba\boolean.cpp
+	"Boolean.h"
+
+1663945871 source:c:\users\administrador\downloads\prueba\camioneta.cpp
+	"Camioneta.h"
+
+1663635123 c:\users\administrador\downloads\prueba\camioneta.h
+	"string.h"
+
+1663944808 source:c:\users\administrador\downloads\prueba\departamentos.cpp
+	"Departamento.h"
+
+1663888213 c:\users\administrador\downloads\prueba\departamento.h
+	<stdio.h>
+
+1663374778 source:c:\users\administrador\downloads\prueba\discriminante.cpp
+	"Discriminante.h"
+
+1663372407 c:\users\administrador\downloads\prueba\discriminante.h
+	<stdio.h>
+
+1663945969 source:c:\users\administrador\downloads\prueba\estacionamiento.cpp
+	"Estacionamiento.h"
+
+1663947820 c:\users\administrador\downloads\prueba\estacionamiento.h
+	"Vehiculo.h"
+
+1663888236 c:\users\administrador\downloads\prueba\vehiculo.h
+	"String.h"
+	"Hora.h"
+	"Discriminante.h"
+	"Auto.h"
+	"Camioneta.h"
+	"Departamento.h"
+
+1663718650 c:\users\administrador\downloads\prueba\hora.h
+	<stdio.h>
+	"Boolean.h"
+
+1661904152 source:c:\users\administrador\downloads\prueba\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\administrador\downloads\prueba\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1663860116 source:c:\users\administrador\downloads\prueba\hora.cpp
+	"Hora.h"
+
+1663943307 source:c:\users\administrador\downloads\prueba\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	"Estacionamiento.h"
+	"Menu.h"
+
+1663861063 c:\users\administrador\downloads\prueba\menu.h
+	"Estacionamiento.h"
+
+1663947820 source:c:\users\administrador\downloads\prueba\menu.cpp
+	"Menu.h"
+
+1663629713 source:c:\users\administrador\downloads\prueba\string.cpp
+	"String.h"
+
+1663945534 source:c:\users\administrador\downloads\prueba\vehiculo.cpp
+	"Vehiculo.h"
+
